@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Exoplanet atmospheres, <a href='https://www.hsfoundation.org/fellow/brianna-lacy/'>51 Pegasi B Fellow</a> at <a href='https://astronomy.utexas.edu/'>UT Austin</a>
+# Address. Contacts. Moto. Etc.
 
 profile:
   align: right
