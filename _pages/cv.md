@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: brianna_cv_pdf.pdf
+cv_pdf: lacy_cv_fall_2024.pdf
 ---

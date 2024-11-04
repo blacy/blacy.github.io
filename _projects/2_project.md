@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Towards JWST Transit Spectroscopy
+description: Several explorations of the opportunities and challenges presented by the anticipated improved capabilities of JWST
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: example
 ---
 
 Every project has a beautiful feature showcase page.

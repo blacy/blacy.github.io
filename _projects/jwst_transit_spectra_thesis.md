@@ -1,11 +1,10 @@
----
+<!-- ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: example
+title: Towards JWST Transit Spectroscopy
+description: Several explorations of the opportunities and challenges presented by the anticipated improved capabilities of JWST
+img: assets/img/3.jpg
+importance: 2
+category: publications
 ---
 
 Every project has a beautiful feature showcase page.
@@ -78,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

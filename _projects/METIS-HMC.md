@@ -1,11 +1,10 @@
----
+<!-- ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: example
+title: METIS version 2.0
+description: A julia-based tool for giant exoplanet and brown dwarf retrievals.
+img: assets/img/12.jpg
+importance: 1
+category: tools
 ---
 
 Every project has a beautiful feature showcase page.
@@ -78,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

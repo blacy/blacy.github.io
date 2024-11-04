@@ -1,11 +1,10 @@
----
+<!-- ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: modeling roman-cgi capabilities for young and old giant exoplanets
+description: Work for Roman-CGI science investigation team to help guide final mission maturation decisions.
+img: assets/img/3.jpg
 importance: 3
-category: example
+category: publications
 ---
 
 Every project has a beautiful feature showcase page.
@@ -78,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

@@ -2,28 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.hsfoundation.org/fellow/brianna-lacy/'>51 Pegasi B Fellow</a> at <a href='https://astronomy.utexas.edu/'>UT Austin</a>
-# Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.hsfoundation.org/fellow/brianna-lacy/'>51 Pegasi B Fellow</a> at <a href='https://www.astro.ucsc.edu/about/staff-directory-page.php?uid=blacy'>UC Santa Cruz</a>, and BAERI contractor at NASA Ames.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  # address: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true  
+selected_papers: false 
+social: true  
 ---
 
-I am an expert at modeling exoplanet and brown dwarf atmospheres.
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
- -->
+My research aims to understand the atmospheres of giant exoplanets and brown dwarfs through theoretical modeling and comparison to observations. Check out my work on <a href = 'https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=author%3A%22Lacy%2C%20Brianna%22%20%20year%3A2013-2100&sort=date%20desc%2C%20bibcode%20desc'>ADS</a>, <a href = 'https://github.com/blacy'>github</a>, or the projects tab to learn more. You can contact me at blacy@ucsc.edu.

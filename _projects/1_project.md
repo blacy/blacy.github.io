@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Cold Brown Dwarf Atmosphere Models
+description: 1d radiative-convective equilibrium atmosphere models with nonequilibrium chemistry and water clouds
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: example
 ---
 
 Every project has a beautiful feature showcase page.
